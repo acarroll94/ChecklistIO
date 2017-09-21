@@ -5,10 +5,6 @@
     <UserSecretsId>aspnet-ChecklistIO-E36C0CBC-367B-44CF-855E-97A6A9958FC7</UserSecretsId>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Controllers\TodoController.cs" />
-  </ItemGroup>
-
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
